@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { render } from 'react-dom';
-import './app.css'
+import './App.css'
 import Products from './components/Products';
 import Navbar from './components/Navbar';
 import CartPopup from './components/CartPopup';
